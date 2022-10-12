@@ -1,0 +1,28 @@
+
+.headlist{
+    display: flex;
+    list-style: none;
+    color: white;
+    background-color: black;
+
+}
+body{
+    background-color: rgb(51, 144, 139);
+}
+nav{
+
+    display: flex;
+    color: aqua;
+    font-size: 30px;
+}
+a{
+    text-decoration: none;
+}
+li{
+    padding: 10px;
+    font-size: 20px;
+}
+.images{
+    text-align: center;
+}
+
